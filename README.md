@@ -1,22 +1,54 @@
-## Hi! I'm Cauã Menezes
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Caua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Caua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Caua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Caua-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img align="center" alt="Caua-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="Caua-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Caua-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="Caua-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  </div>
-    
-  ##
-  
-<div>
-  <a href = "mailto:cauamenezes.07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/devcauamenezes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
-  ![Snake animation](https://github.com/cauamenezes/cauamenezes/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+# Cauã Menezes da Silva
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/devcauamenezes) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/cauamenezes) 
+[![Email](https://img.shields.io/badge/Email-cauamenezes.07%40gmail.com-red?logo=gmail&logoColor=white)](mailto:cauamenezes.07@gmail.com)
+
+---
+
+## 👨‍💻 Perfil Profissional
+Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas pelo SENAI**, com mais de **2 anos de experiência em automação de processos (RPA)**, documentação técnica e desenvolvimento web.  
+
+Atuo com **SAP Build Process Automation (SAP BTP)**, **UiPath**, **Python** e **Power Automate**, além de modelagem de processos em **BPMN (AS/IS e TO/BE)**. Tenho experiência em projetos nos setores **financeiro, logístico e jurídico**, com foco em mapear processos, propor melhorias e garantir eficiência de automações.  
+
+Também possuo vivência em **desenvolvimento web full stack**, com foco em front-end, modelagem de dados e bancos relacionais (**SQL**).
+
+---
+
+## 💼 Experiência Profissional
+
+**CIDIC | Consultoria em TI**  
+*Desenvolvedor RPA e Suporte Técnico*  
+📍 *Jan/2023 – Atual | Osasco, SP – Híbrido*  
+
+- Criação de **PDDs e SDDs** para documentação clara e rastreável.  
+- Desenvolvimento de automações em **SAP Build Process Automation, UiPath e Python**, reduzindo custos e otimizando processos.  
+- Execução de **testes unitários e integrados** junto a Key Users.  
+- Manutenção e evolução de automações existentes, além de POCs para novas oportunidades.  
+- Treinamento de equipe e suporte em soluções de automação.  
+- Desenvolvimento e manutenção de sistemas web internos.  
+- Suporte N1 em redes e sistemas para cliente **Solví**.  
+
+---
+
+## 🎓 Formação Acadêmica
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Centro Universitário FIEO *(2023 – 2025)*  
+- **Técnico em Desenvolvimento de Sistemas** – SENAI “Prof. Vicente Amato” *(2021 – 2022)*  
+
+---
+
+## 🛠️ Habilidades Técnicas
+- **Automação de Processos:** SAP BTP, UiPath, Power Automate, Python  
+- **Documentação Técnica:** PDDs, SDDs, BPMN (AS/IS e TO/BE)  
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, Node.js  
+- **Banco de Dados:** SQL, modelagem MER/DER  
+- **Metodologias Ágeis:** Scrum, Kanban  
+- **Outros:** Java (POO), Análise de dados em Python  
+
+---
+
+## 🌍 Idiomas
+- **Português:** Nativo  
+- **Inglês:** Intermediário (B1)  
+
+---
