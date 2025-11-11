@@ -21,7 +21,7 @@ Também possuo vivência em **desenvolvimento web full stack**, com foco em fron
 ## 💼 Experiência Profissional  
 
 **CIDIC | Consultoria em TI**  
-*Desenvolvedor RPA e Suporte Técnico*  
+*Desenvolvedor SAP BTP*  
 📍 *Jan/2023 – Atual | Osasco, SP – Híbrido*  
 
 - 💡 **Cliente Votorantim Cimentos:** desenvolvimento do **Portal de Precificação de Fretes** utilizando **SAP Build Apps, CAP e Hana Cloud** no **SAP BTP**.  
@@ -65,9 +65,9 @@ Também possuo vivência em **desenvolvimento web full stack**, com foco em fron
 
 ## 📫 Contato  
 
-📧 **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
-💼 **LinkedIn:** [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
-💻 **Portfólio:** [github.com/seuusuario](https://github.com/seuusuario)  
+📧 **Email:** [cauamenezes.07@gmail.com](mailto:cauamenezes.07@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/devcauamenezes](https://linkedin.com/in/devcauamenezes)  
+💻 **Portfólio:** [github.com/cauamenezes](https://github.com/cauamenezes)  
 
 ---
 
